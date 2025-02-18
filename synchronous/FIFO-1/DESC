@@ -1,4 +1,0 @@
-FIFO -1
-
-
-A synchronous FIFO with parameterized depth and data width, featuring write/read enables, data input/output, and full/empty status indicators.
