@@ -1,6 +1,7 @@
 
 ## Overview
 
+The SystemVerilog code was written by referring to the example provided on VerificationGuide.com: for memory model
 This repository contains a SystemVerilog verification environment for a synchronous FIFO (First-In, First-Out) module.  It utilizes a UVM-like (though perhaps not fully compliant) structure to provide a comprehensive and configurable testbench.  The environment includes:
 
 *   **`synchronous_fifo.sv`:** The Design Under Test (DUT) - the SystemVerilog code for the FIFO module itself.
